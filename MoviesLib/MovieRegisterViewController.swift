@@ -33,14 +33,15 @@ class MovieRegisterViewController: UIViewController {
             }
             btAddUpdate.setTitle("Atualizar", for: .normal)
         }
-        self.ivPoster.transform = CGAffineTransform.init(scaleX: 0.0, y: 0.0)
+//        self.ivPoster.transform = CGAffineTransform.init(scaleX: 0.0, y: 0.0)
     }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
         UIView.animate(withDuration: 1.5) {
-            self.ivPoster.transform = CGAffineTransform.init(scaleX: 1.0, y: 1.0)
+//            self.ivPoster.transform = CGAffineTransform.init(scaleX: 1.0, y: 1.0)
+            self.ivPoster.transform = CGAffineTransform.init(rotationAngle: CGFloat(M_PI))
         }
     }
     
