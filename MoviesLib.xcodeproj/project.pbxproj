@@ -56,6 +56,7 @@
 		AC70C4FE1E748175005E598A /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC70C4FD1E748175005E598A /* WebViewController.swift */; };
 		ACF7ABCE1E85D37000C6B8AB /* logan-trailer.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ACF7ABCC1E85D37000C6B8AB /* logan-trailer.mp4 */; };
 		ACF7ABCF1E85D37000C6B8AB /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ACF7ABCD1E85D37000C6B8AB /* music.mp3 */; };
+		ACF7ABD11E85F52C00C6B8AB /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACF7ABD01E85F52C00C6B8AB /* maxresdefault.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,6 +111,7 @@
 		AC70C4FD1E748175005E598A /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		ACF7ABCC1E85D37000C6B8AB /* logan-trailer.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "logan-trailer.mp4"; sourceTree = "<group>"; };
 		ACF7ABCD1E85D37000C6B8AB /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		ACF7ABD01E85F52C00C6B8AB /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 		AC64CEEF1E70C99900FD5EFF /* images */ = {
 			isa = PBXGroup;
 			children = (
+				ACF7ABD01E85F52C00C6B8AB /* maxresdefault.jpg */,
 				AC64CEBB1E70C98E00FD5EFF /* arrival-small.jpg */,
 				AC64CEBC1E70C98E00FD5EFF /* arrival-wide.jpg */,
 				AC64CEBD1E70C98E00FD5EFF /* avengersultron-small.jpg */,
@@ -312,6 +315,7 @@
 				AC64CEE01E70C98E00FD5EFF /* doctorstrange-wide.jpg in Resources */,
 				AC70C4EF1E741D3A005E598A /* theaters.xml in Resources */,
 				AC64CEEE1E70C98E00FD5EFF /* sully-wide.jpg in Resources */,
+				ACF7ABD11E85F52C00C6B8AB /* maxresdefault.jpg in Resources */,
 				AC64CEEB1E70C98E00FD5EFF /* suicidesquad-small.jpg in Resources */,
 				AC64CED91E70C98E00FD5EFF /* batmanvsuperman-small.jpg in Resources */,
 				AC64CEDF1E70C98E00FD5EFF /* doctorstrange-small.jpg in Resources */,
